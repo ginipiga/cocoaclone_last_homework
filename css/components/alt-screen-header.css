@@ -1,0 +1,50 @@
+.alt-header {
+  padding: var(--horizontal-space);
+  margin-bottom: 15px;
+  margin-top:20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:40px;
+  position:relative;
+  margin-top:6px;
+}
+.alt-header__column {
+  width: 33%;
+}
+
+.alt-header__title {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.alt-header__column:first-child {
+  margin-right: auto;
+}
+
+.alt-header__column:nth-child(2) {
+  text-align: center;
+}
+
+.alt-header__column:last-child {
+  margin-left: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.alt-header__column span:last-child {
+  margin-left: 20px;
+}
+.alt-header__Link img{
+  display:flex;
+  width:20px;
+  height:20px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.message__author span{
+  border: 1px solid black;
+  font-size:10px;
+  margin-right:3px;
+  border-radius: 5px;
+}

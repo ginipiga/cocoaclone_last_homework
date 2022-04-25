@@ -1,0 +1,55 @@
+.more-n{
+    width:97.5%;
+    display:flex;
+    flex-direction: column;
+    border-radius: 50%;
+    position:relative;
+    left:1%;
+    margin-bottom: 30px;
+
+}
+.more-npay{
+    display:flex;
+    padding:10px 20px;
+    justify-content:space-between;
+    color:white;
+    border-top-left-radius: 20px;
+    height:40px;
+    border-top-right-radius:20px;
+    background: linear-gradient(90deg, #4CA764, #4DA87F,#4DA79D);
+    align-items: center;
+}
+.more-npay-nav{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:5px;
+    color:white;
+    height: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: linear-gradient(90deg, #43975B, #439775,#44978D);
+}
+.more-npay_nav-1{
+    display:flex;
+    background-color: white;
+    justify-content:space-around;
+    width:95%;
+    position:relative;
+    left:1%;
+    height: 80px;
+    align-items: center;
+    padding:5px;
+    border-radius: 20px;
+    padding:5px;
+}
+.more-npay_nav-2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+.more-npay_nav-2 i {
+    padding: 15px;
+}

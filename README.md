@@ -1,2 +1,3 @@
-# cocoaclone_last_homework
-last? or not? i don't know
+# Kokoa Clone 2022 Update
+
+HTML & CSS are so much fun!

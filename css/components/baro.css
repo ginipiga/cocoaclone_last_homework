@@ -1,0 +1,18 @@
+.baro{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+.baro_button{
+    width:20px;
+    height: 10px;
+    display:flex;
+    background-color: #E2E3E5;
+}
+.baro_button_one{
+    width:10px;
+    height: 10px;
+}
+.baro_name span i:first-child {
+    color:#577DD2;
+}
